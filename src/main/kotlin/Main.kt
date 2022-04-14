@@ -2,10 +2,6 @@ import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import java.util.concurrent.TimeUnit
 
-/**
- * Adds a member to this group.
- * @return the new size of the group.
- */
 fun main(args: Array<String>) {
     println("Hello World!")
     for (i in 1..3) {
